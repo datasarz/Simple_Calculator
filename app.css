@@ -1,4 +1,10 @@
 body{
-    background: linear-gradient(to right, pink , blue);
-    
+    background: linear-gradient(to right,rgba(218, 25, 25, 0.904), rgb(6, 6, 151));
+
+}
+.section{
+    display: inline-block;
+    width: 250px;
+    height: 600px;
+    background-color: rgb(0, 162, 255);
 }
